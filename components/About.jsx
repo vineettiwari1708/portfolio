@@ -40,7 +40,7 @@ const About = ({isDarkMode}) => {
             initial={{opacity: 0}}
             whileInView={{opacity: 1}}
             transition={{duration: 0.6, delay: 0.8}}
-            className='flex-1'>
+            className='w-full flex-col'>
                 <p className='mb-10 max-w-2xl font-Ovo'
                 >I am an experienced MERN Stack and Web Developer with over 5 years of professional expertise in building full-stack web applications. Throughout my career, I have worked on diverse projects across multiple organizations, contributing to scalable, secure, and user-focused digital solutions.</p>
 
@@ -48,7 +48,7 @@ const About = ({isDarkMode}) => {
                 initial={{opacity: 0}}
                 whileInView={{opacity: 1}}
                 transition={{duration: 0.8, delay: 1}}
-                className='grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl'>
+                className='grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-2xl my-10'>
                     {infoList.map(({icon, iconDark, title, description}, index)=>(
                         <motion.li 
                         whileHover={{scale: 1.05}}
