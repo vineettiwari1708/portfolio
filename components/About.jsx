@@ -41,7 +41,7 @@ const About = ({isDarkMode}) => {
             whileInView={{opacity: 1}}
             transition={{duration: 0.6, delay: 0.8}}
             className='w-full flex-col'>
-                <p className='mb-10 max-w-2xl font-Ovo'
+                <p className='mb-10 max-w-2xl font-Ovo sm:text-justify sm:text-center'
                 >I am an experienced MERN Stack and Web Developer with over 5 years of professional expertise in building full-stack web applications. Throughout my career, I have worked on diverse projects across multiple organizations, contributing to scalable, secure, and user-focused digital solutions.</p>
 
                 <motion.ul
