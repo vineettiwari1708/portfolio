@@ -97,7 +97,7 @@ export const workData = [
     url: "https://glistening-cupcake-a9674d.netlify.app/",
   },
    {
-    title: "Blog Project",
+    title: "AI Blog Project",
     description: "MERN Project",
     bgImage: "/work-2.png",
     url: "https://chimerical-zabaione-37b409.netlify.app/",
