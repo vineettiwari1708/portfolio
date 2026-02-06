@@ -91,16 +91,22 @@ export const assets = {
 
 export const workData = [
   {
-    title: "Portfolio Project",
-    description: "Web Design",
-    bgImage: "/work-1.png",
-    url: "#",
-  },
-  {
     title: "Car Rent Project",
     description: "MERN Project",
     bgImage: "/work-2.png",
     url: "https://glistening-cupcake-a9674d.netlify.app/",
+  },
+   {
+    title: "Blog Project",
+    description: "MERN Project",
+    bgImage: "/work-2.png",
+    url: "https://chimerical-zabaione-37b409.netlify.app/",
+  },
+  {
+    title: "Portfolio Project",
+    description: "Web Design",
+    bgImage: "/work-1.png",
+    url: "#",
   },
 ];
 
