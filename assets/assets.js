@@ -99,7 +99,7 @@ export const workData = [
    {
     title: "AI Blog Project",
     description: "MERN Project",
-    bgImage: "/work-2.png",
+    bgImage: "/work-3.png",
     url: "https://chimerical-zabaione-37b409.netlify.app/",
   },
   {
