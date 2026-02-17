@@ -102,6 +102,12 @@ export const workData = [
     bgImage: "/work-3.png",
     url: "https://chimerical-zabaione-37b409.netlify.app/",
   },
+   {
+    title: "Chat App Project",
+    description: "MERN Project",
+    bgImage: "/work-4.png",
+    url: "https://unrivaled-bubblegum-6ba339.netlify.app/",
+  },
   {
     title: "Portfolio Project",
     description: "Web Design",
