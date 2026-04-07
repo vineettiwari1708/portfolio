@@ -42,7 +42,7 @@ const About = ({isDarkMode}) => {
             transition={{duration: 0.6, delay: 0.8}}
             className='w-full flex-col'>
                 <p className='mb-10 max-w-2xl font-Ovo sm:text-justify sm:text-center'
-                >I am an experienced MERN Stack and Web Developer with over 5 years of professional expertise in building full-stack web applications. Throughout my career, I have worked on diverse projects across multiple organizations, contributing to scalable, secure, and user-focused digital solutions.</p>
+                >I am a passionate web developer with experience in building full-stack web applications, dynamic WordPress websites, and AI-powered solutions. I love creating projects that solve real-world problems, from real-time chat apps to blogs generated automatically via AI. My goal is to deliver fast, responsive, and user-friendly websites while integrating modern technologies like MERN, Socket.IO, MongoDB, and ChatGPT API.</p>
 
                 <motion.ul
                 initial={{opacity: 0}}
