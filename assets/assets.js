@@ -109,10 +109,10 @@ export const workData = [
     url: "https://unrivaled-bubblegum-6ba339.netlify.app/",
   },
   {
-    title: "Portfolio Project",
-    description: "Web Design",
+    title: "ERP SaaS",
+    description: "ERP Application",
     bgImage: "/work-1.png",
-    url: "#",
+    url: "https://erp-vin.netlify.app/",
   },
 ];
 
